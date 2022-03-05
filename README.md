@@ -11,12 +11,6 @@ Vue 2 boilerplate.
 `lint-css` - run CSS linter.\
 `test` - run tests.
 
-`lint` - run TypeScript linter with files autofix.\
-`lint-css` - run CSS linter.\
-`lint-css:fix` - run CSS linter with files autofix.\
-`test` - run tests.
-`watch` - build and start server in development environment with files change watch.\
-
 ### Technology stack
 `angular` - application framework.\
 `apollo-angular` - graphql client.\
