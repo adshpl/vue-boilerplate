@@ -1,0 +1,9 @@
+{
+  "processors": ["stylelint-processor-html"],
+  "plugins": ["stylelint-order"],
+  "extends": ["stylelint-config-standard"],
+  "rules": {
+    "no-empty-source": null,
+    "order/properties-alphabetical-order": true
+  }
+}
