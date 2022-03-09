@@ -4,7 +4,7 @@
 Vue 2 boilerplate.
 
 ### Yarn scripts
-`clean` - Remove build output folder.\
+`clean` - remove build output folder.\
 `production` - build and start server in production environment.\
 `development` - build and start server in development environment with files change watch.\
 `lint` - run JavaScript linter.\
